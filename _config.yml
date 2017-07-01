@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Welcome "
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Abhishek Sharma"
 description              : &description "personal description"
 url                      : https://Not-IITian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
