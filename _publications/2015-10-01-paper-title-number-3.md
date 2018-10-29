@@ -1,5 +1,5 @@
 ---
-title: "On the statisitical consistency of Z loss"
+title: "A note on the statisitical consistency of Z loss"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 
