@@ -6,4 +6,4 @@ date: 2016-10-01
 venue: 'ECCV '
 paperurl: 'https://scalable.mpi-inf.mpg.de/vconv-dae-deep-volumetric-shape-learning-without-object-labels/'
 
-
+--
