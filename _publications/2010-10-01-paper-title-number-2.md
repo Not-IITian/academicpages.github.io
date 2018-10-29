@@ -7,7 +7,6 @@ venue: 'ECCV '
 paperurl: 'https://scalable.mpi-inf.mpg.de/vconv-dae-deep-volumetric-shape-learning-without-object-labels/'
 
 ---
-
 [Download paper here](https://github.com/Not-IITian/VCONV-DAE)
 
 
