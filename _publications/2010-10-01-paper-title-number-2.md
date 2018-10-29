@@ -8,6 +8,6 @@ paperurl: 'https://scalable.mpi-inf.mpg.de/vconv-dae-deep-volumetric-shape-learn
 
 ---
 
-[Download code here](https://github.com/Not-IITian/VCONV-DAE)
+[Download paper here](https://github.com/Not-IITian/VCONV-DAE)
 
 
