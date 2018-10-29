@@ -5,3 +5,5 @@ permalink: https://github.com/Not-IITian/Foreground-Clustering-for-Joint-Segment
 date: 2018-10-01
 venue: 'NIPS'
 paperurl: 'https://github.com/Not-IITian/Foreground-Clustering-for-Joint-Segmentation-and-Localization'
+
+---
