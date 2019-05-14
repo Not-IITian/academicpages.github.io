@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage. I am an applied mathematician, interested in all aspects of machine learning and its applications. 
+Welcome to my homepage. I am a researcher at Ecole Polytechnique, supported by [ERC grant](https://cordis.europa.eu/project/rcn/212108/factsheet/en). Previously, I was a CS PhD researcher for about a year at [MPI for Informatics](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/alumni-and-former-members/abhishek-sharma/.) Before that, I graduated with a Masters degree in Applied Math with a formal training in machine learning and computer vision [MVA Masters programme](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2015-2016-161721.kjsp?RH=1242415112528)
 
-Background
+News
 ======
-Previously, I was a computer science PhD student for about a year at [MPI for Informatics](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/alumni-and-former-members/abhishek-sharma/.)
+* I am on the program committee of Neurips 2019.
 
-Before that, I graduated with a Masters degree in Applied Math with a formal training in machine learning and computer vision. See the very well known [MVA programme structure](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2015-2016-161721.kjsp?RH=1242415112528)
+* Our work on Unsupervised 3D shape matching is out on [arxiv](https://arxiv.org/pdf/1812.03794.pdf)
 
+* I joined Ecole Polytechnique.
