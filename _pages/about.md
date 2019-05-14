@@ -12,7 +12,7 @@ Welcome to my homepage. I am a researcher at Ecole Polytechnique, supported by [
 
 News
 ======
-* I am on the program committee of Neurips 2019.
+* I am on the program committee of [Neurips 2019](https://nips.cc/Conferences/2019/).
 
 * Our work on Unsupervised 3D shape matching is out on [arxiv](https://arxiv.org/pdf/1812.03794.pdf)
 
