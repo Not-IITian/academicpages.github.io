@@ -18,5 +18,5 @@ News
 
 * Our work on Unsupervised 3D shape matching is out on [arxiv](https://arxiv.org/pdf/1812.03794.pdf) 
 
-* I joined Ecole Polytechnique. (Feb,2019)
+* Despite all odds, I joined Ecole Polytechnique. (Feb,2019)
 
