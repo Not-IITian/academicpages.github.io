@@ -14,7 +14,7 @@ My research interests are centered around large scale learning on collections of
 
 News
 ======
-* New paper submitted to Siggraph-A "Zoomout: Spectral Upsampling for efficient shape correspondances". Preprint soon!
+* New paper submitted to Siggraph-A "Zoomout: Spectral Upsampling for shape correspondances". Preprint soon!
 
 * I am on the technical program committee of [Neurips 2019](https://nips.cc/Conferences/2019/) as a reviewer.
 
