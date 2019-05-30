@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my homepage. I am a researcher at Ecole Polytechnique, supported by [ERC grant](https://cordis.europa.eu/project/rcn/212108/factsheet/en). Previously, I was a CS PhD researcher for about a year where I was [unfortunately](https://link.springer.com/article/10.1007/s11948-009-9119-4) hosted by the computer vision dept of [MPI for Informatics](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/alumni-and-former-members/abhishek-sharma/.) Before that, I graduated with a Masters degree in Applied Math with a formal training in machine learning and computer vision [MVA Masters programme](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2015-2016-161721.kjsp?RH=1242415112528)
 
-My research interests are centered around large scale learning on collections of 2D images, 3D geometric shapes and large networks or graphs. I seek to build models that do not rely on labelled data and thus, a particular focus of my research is on unsupervised learning. Put differently in Nikos words, I stay away from [deep depression](https://www.linkedin.com/pulse/computer-vision-research-my-deep-depression-nikos-paragios)
+My research interests are centered around large scale learning on collections of 2D images, 3D geometric shapes and large networks or graphs. I seek to build models that do not rely on labelled data and thus, a particular focus of my research is on unsupervised learning. 
 
 News
 ======
