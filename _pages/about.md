@@ -26,5 +26,5 @@ News
 
 * Despite all the odds, I joined Ecole Polytechnique. (March,2019)
 
-* presented Foreground Clustering[https://nips.cc/Conferences/2018/Schedule?showEvent=11183] at Neurips 2018.
+* presented [Foreground Clustering](https://nips.cc/Conferences/2018/Schedule?showEvent=11183) at Neurips 2018.
 
