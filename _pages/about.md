@@ -24,5 +24,7 @@ News
 
 * Our work on Unsupervised 3D shape matching is out on [arxiv](https://arxiv.org/pdf/1812.03794.pdf) 
 
-* Despite all the odds, I joined Ecole Polytechnique. (Feb,2019)
+* Despite all the odds, I joined Ecole Polytechnique. (March,2019)
+
+* presented Foreground Clustering[https://nips.cc/Conferences/2018/Schedule?showEvent=11183] at Neurips 2018.
 
