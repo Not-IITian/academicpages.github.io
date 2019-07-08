@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage. I am a researcher at Ecole Polytechnique, supported by [ERC grant](https://cordis.europa.eu/project/rcn/212108/factsheet/en). Previously, I was a Marie Curie Early Stage researcher for about a year where I was [unfortunately](https://link.springer.com/article/10.1007/s11948-009-9119-4) hosted by a group in the [Computer Vision Dept.] of MPI for Informatics, Saarbrucken. Before that, I graduated with a Masters degree in Applied Math with distinction and a formal training in machine learning and computer vision [MVA Masters programme](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2015-2016-161721.kjsp?RH=1242415112528)
+Welcome to my homepage. I am a researcher at Ecole Polytechnique, supported by [ERC grant](https://cordis.europa.eu/project/rcn/212108/factsheet/en). Previously, I was a Marie Curie Early Stage researcher for about a year where I was [unfortunately](https://link.springer.com/article/10.1007/s11948-009-9119-4) hosted by a group in the Computer Vision Dept. of MPI for Informatics, Saarbrucken. Before that, I graduated with a Masters degree in Applied Math with distinction and a formal training in machine learning and computer vision [MVA Masters programme](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2015-2016-161721.kjsp?RH=1242415112528)
 
 My research interests are centered around large scale learning on collections of 2D images, 3D geometric shapes and large networks or graphs. I seek to build models that do not rely on labelled data and thus, a particular focus of my research is on unsupervised-attribute based learning. 
 
@@ -24,7 +24,7 @@ News
 
 * Our work on Unsupervised 3D shape matching is out on [arxiv](https://arxiv.org/pdf/1812.03794.pdf) 
 
-* Despite all the odds, I joined Ecole Polytechnique. (March,2019)
+* Despite all the odds, I came back to academia and joined Ecole Polytechnique. (March,2019)
 
 * presented [Foreground Clustering](https://nips.cc/Conferences/2018/Schedule?showEvent=11183) at Neurips 2018.
 
