@@ -14,13 +14,13 @@ My research interests are centered around large scale learning on collections of
 
 News
 ======
-* We got an oral presentation (4 % acceptance) at [ICCV](https://arxiv.org/pdf/1812.03794.pdf) and Siggraph-A.
+* We got an oral presentation (4 % acceptance) at [ICCV](https://arxiv.org/pdf/1812.03794.pdf) and Siggraph-A. (Preprint soon!)
 
 * I gave an invited lecture on [deep autoencoders](https://drive.google.com/open?id=1QfdtIAxTcKoLvpr_qbaRvqV9MrH9F51i) to second year Polytechnique students.
 
 * I will be attending [SGP](https://sgp2019.di.unimi.it/index.html) in Milano!
 
-* New Siggraph-A submission jointly with KAUST and Sapienza "Zoomout: Spectral Upsampling". Preprint soon!
+* New Siggraph-A submission jointly with KAUST and Sapienza "Zoomout: Spectral Upsampling". 
 
 * I am on the technical program committee of [Neurips 2019](https://nips.cc/Conferences/2019/) as a reviewer.
 
