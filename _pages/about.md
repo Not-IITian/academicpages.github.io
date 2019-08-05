@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage. I am a researcher at Ecole Polytechnique, supported by [ERC grant](https://cordis.europa.eu/project/rcn/212108/factsheet/en). Previously, I was a Marie Curie Early Stage researcher for about a year in the [famous](https://link.springer.com/article/10.1007/s11948-009-9119-4) Computer Vision Dept. (Schiele et al.) at MPI for Informatics, Saarbrucken. Before that, I graduated with a Masters degree in Applied Math with distinction and a formal training in machine learning and computer vision [MVA Masters programme](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2015-2016-161721.kjsp?RH=1242415112528)
+Welcome to my homepage. I am a researcher at Ecole Polytechnique, supported by [ERC grant](https://cordis.europa.eu/project/rcn/212108/factsheet/en). Previously, I was a Marie Curie Early Stage researcher for about a year in the [famous](https://link.springer.com/article/10.1007/s11948-009-9119-4) Computer Vision Dept. (Bernt Schiele et al.) at MPI for Informatics, Saarbrucken. Before that, I graduated with a Masters degree in Applied Math with distinction and a formal training in machine learning and computer vision [MVA Masters programme](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2015-2016-161721.kjsp?RH=1242415112528)
 
 My research interests are centered around large scale learning on collections of 2D images, 3D geometric shapes and large networks or graphs. I seek to build models that do not rely on labelled data and thus, a particular focus of my research is on unsupervised-attribute based learning. 
 
