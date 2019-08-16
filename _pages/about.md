@@ -16,7 +16,7 @@ My research interests are centered around large scale learning on collections of
 
 * Most important problem in Machine learning: Overfitting, Overfitting and Overfitting!
 
-* Most important problem in geometry processing: TBD!
+* Most important problem in geometry processing: Coming soon!
 
 News
 ======
