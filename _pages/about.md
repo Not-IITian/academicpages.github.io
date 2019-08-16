@@ -12,9 +12,9 @@ Welcome to my homepage. I am a researcher at Ecole Polytechnique, supported by [
 
 My research interests are centered around large scale learning on collections of 2D images, 3D geometric shapes and large networks or graphs. A particular focus of my research is on unsupervised-attribute based learning and follows:
 
-* Most Important Problems in computer vision: Correspondence, Correspondence and Correspondence (Takeo Kanade, CMU, 1997)
+* Most Important Problems in Computer Vision: Correspondence, Correspondence and Correspondence (Takeo Kanade, CMU, 1997)
 
-* Most importan problem in Machine learning: Overfitting, Overfitting and Overfitting!
+* Most important problem in Machine learning: Overfitting, Overfitting and Overfitting!
 
 * Most important problem in geometry processing: TBD!
 
