@@ -20,6 +20,8 @@ My research interests are centered around large scale learning on collections of
 
 News
 ======
+* Neurips 2019 conference registration reserved for being one of the top reviewer this year.(First time reviewing :))
+
 * We got an oral presentation (4 % acceptance) at [ICCV](https://arxiv.org/pdf/1812.03794.pdf) and Siggraph-A. (Preprint soon!)
 
 * I gave an invited lecture on [deep autoencoders](https://drive.google.com/open?id=1QfdtIAxTcKoLvpr_qbaRvqV9MrH9F51i) to second year Polytechnique students.
