@@ -20,7 +20,7 @@ My research interests are centered around large scale learning on collections of
 
 News
 ======
-* Awarded [Neurips 2019](https://nips.cc/Conferences/2019/) registration reservation for being one of the top reviewer.(First time reviewing :))
+* Awarded [Neurips 2019](https://nips.cc/Conferences/2019/) registration reservation for being one of the top reviewer.(6k papers submitted, 1400 accepted.)
 
 * We got an oral presentation (4 % acceptance) at [ICCV](https://arxiv.org/pdf/1812.03794.pdf) and [Siggraph-A](https://arxiv.org/abs/1904.07865)
 
