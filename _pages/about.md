@@ -20,7 +20,7 @@ My research interests are centered around large scale learning on collections of
 
 News
 ======
-* We got a [Best Paper Award Nomination](https://drive.google.com/open?id=1RPoBPHhtwdsRf5CLkI1seRfoMJvY0oP7)( 7 out of 4000 +) at ICCV 2019.
+* We got a [Best Paper Award Nomination](https://drive.google.com/open?id=1BlfJhj8axuLPXfO9kqP7hW4JIiHFp8ki)( 7 out of 4000 +) at ICCV 2019.
 
 * Awarded [Neurips 2019](https://nips.cc/Conferences/2019/) registration reservation for being one of the top reviewer.(6k papers submitted, 1400 accepted.)
 
