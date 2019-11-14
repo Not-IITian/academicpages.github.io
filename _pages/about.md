@@ -33,8 +33,6 @@ News
 
 * I will be attending [SGP](https://sgp2019.di.unimi.it/index.html) in Milano!
 
-* New Siggraph-A submission jointly with KAUST and Sapienza "Zoomout: Spectral Upsampling". 
-
 * I am on the technical program committee of [Neurips 2019](https://nips.cc/Conferences/2019/) as a reviewer.
 
 * Despite all the odds, I came back to academia and joined Ecole Polytechnique. (March,2019)
