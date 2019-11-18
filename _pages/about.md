@@ -25,7 +25,7 @@ News
 
 * We got a [Best Paper Award Nomination](https://drive.google.com/open?id=1BlfJhj8axuLPXfO9kqP7hW4JIiHFp8ki)( 7 out of 4000 +) at ICCV 2019.
 
-* Awarded [Neurips 2019](https://nips.cc/Conferences/2019/) registration reservation for being one of the top reviewer.(6k papers submitted, 1400 accepted.)
+* Given [Neurips 2019](https://nips.cc/Conferences/2019/) registration reservation for being one of the top reviewer.(6k papers submitted, 1400 accepted.)
 
 * We got an oral presentation (4 % acceptance) at [ICCV](https://arxiv.org/pdf/1812.03794.pdf) and [Siggraph-A](https://arxiv.org/abs/1904.07865)
 
