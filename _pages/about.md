@@ -18,6 +18,8 @@ My research interests are centered around large scale learning on collections of
 
 * Most important problem in geometry processing: Coming soon!
 
+Keywords found in the paper I review or wish to write in future: Metric Learning, OT, Semantic Hashing/Sketching, DMF, ZSL, Spectral, Coarsening, Scene Graph.
+
 Publications can be found at [google scholar](https://scholar.google.com/citations?user=79KaxoIAAAAJ&hl=en&oi=sra)
 
 News
