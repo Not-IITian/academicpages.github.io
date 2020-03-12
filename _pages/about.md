@@ -20,12 +20,14 @@ My research interests are centered around large scale learning on collections of
 
 Some of the keywords found in the paper I (wish to) review or write:
 
-Metric Learning, OT, Semantic Hashing/Sketching, Matrix Factorization, ZSL, Spectral, Coarsening, Scene Graph, Clustering/embedding, functional map, learning from constraints.
+Metric Learning, Optimal Transport, Semantic Hashing/Sketching, Matrix Factorization, ZSL, Spectral, Coarsening, Scene Graph, Clustering/embedding, functional map, learning from constraints.
 
 Publications can be found at [google scholar](https://scholar.google.com/citations?user=79KaxoIAAAAJ&hl=en&oi=sra)
 
 News
 ======
+* We got a paper accepted at [CVPR 2020](CVPR2020.thecvf.com/). Preprint soon!
+
 * I am on the program committee of [ICML 2020](https://icml.cc/Conferences/2020/) as a reviewer.
 
 * We got a [Best Paper Award Nomination](https://drive.google.com/open?id=1BlfJhj8axuLPXfO9kqP7hW4JIiHFp8ki)( 7 out of 4000 +) at ICCV 2019.
