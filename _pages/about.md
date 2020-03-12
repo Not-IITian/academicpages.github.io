@@ -26,7 +26,7 @@ Publications can be found at [google scholar](https://scholar.google.com/citatio
 
 News
 ======
-* We got a paper accepted at [CVPR 2020](CVPR2020.thecvf.com/). Preprint soon!
+* We got a paper accepted at [CVPR 2020](CVPR2020.thecvf.com/) Preprint soon!
 
 * I am on the program committee of [ICML 2020](https://icml.cc/Conferences/2020/) as a reviewer.
 
