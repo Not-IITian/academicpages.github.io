@@ -28,7 +28,7 @@ News
 ======
 * We got a paper accepted at [CVPR 2020](http://cvpr2020.thecvf.com/) Preprint soon!
 
-* I am on the program committee of [ICML 2020](https://icml.cc/Conferences/2020/) as a reviewer.
+* I am on the program committee of [ICML 2020](https://icml.cc/Conferences/2020/) and [Neurips 2020](https://nips.cc/Conferences/2020/CallForPapers)as a reviewer.
 
 * We got a [Best Paper Award Nomination](https://drive.google.com/open?id=1BlfJhj8axuLPXfO9kqP7hW4JIiHFp8ki)( 7 out of 4000 +) at ICCV 2019.
 
