@@ -28,7 +28,7 @@ Source code is available at [Github](https://github.com/Not-IITian)
 
 News
 ======
-* We got a paper accepted at [CVPR 2020](http://cvpr2020.thecvf.com/) Preprint soon!
+* We got a paper accepted at [CVPR 2020](http://cvpr2020.thecvf.com/)! Paper available [here](https://arxiv.org/abs/2003.14286) 
 
 * I am on the program committee of [ICML 2020](https://icml.cc/Conferences/2020/) and [Neurips 2020](https://nips.cc/Conferences/2020/CallForPapers)as a reviewer.
 
