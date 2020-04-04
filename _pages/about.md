@@ -26,11 +26,11 @@ Publications can be found at [google scholar](https://scholar.google.com/citatio
 
 Source code is available at [Github](https://github.com/Not-IITian)
 
+Reviewing: Neurips 2019, 2020, ICML 2020.
+
 News
 ======
 * We got a paper accepted at [CVPR 2020](http://cvpr2020.thecvf.com/)! Paper available [here](https://arxiv.org/abs/2003.14286) 
-
-* I am on the program committee of [ICML 2020](https://icml.cc/Conferences/2020/) and [Neurips 2020](https://nips.cc/Conferences/2020/CallForPapers)as a reviewer.
 
 * We got a [Best Paper Award Nomination](https://drive.google.com/open?id=1BlfJhj8axuLPXfO9kqP7hW4JIiHFp8ki)( 7 out of 4000 +) at ICCV 2019.
 
@@ -41,8 +41,6 @@ News
 * I gave an invited lecture on [deep autoencoders](https://drive.google.com/open?id=1QfdtIAxTcKoLvpr_qbaRvqV9MrH9F51i) to second year Polytechnique students.
 
 * I will be attending [SGP](https://sgp2019.di.unimi.it/index.html) in Milano!
-
-* I am on the technical program committee of [Neurips 2019](https://nips.cc/Conferences/2019/) as a reviewer.
 
 * Despite all the odds, I came back to academia and joined Ecole Polytechnique. (March,2019)
 
