@@ -18,9 +18,6 @@ My research interests are centered around large scale learning on collections of
 
 * Most important problem in geometry processing: Coming soon!
 
-Some of the keywords found in the paper I (wish to) review or write:
-
-Metric Learning, Optimal Transport, Semantic Hashing/Sketching, Matrix Factorization, ZSL, Spectral, Coarsening, Scene Graph, Clustering/embedding, functional map, learning from constraints.
 
 Publications can be found at [google scholar](https://scholar.google.com/citations?user=79KaxoIAAAAJ&hl=en&oi=sra)
 
@@ -30,7 +27,7 @@ Reviewing: Neurips 2019, 2020, ICML 2020.
 
 News
 ======
-* We got a paper accepted at [CVPR 2020](http://cvpr2020.thecvf.com/)! Paper available [here](https://arxiv.org/abs/2003.14286) 
+* We got an oral presentation(5 % acceptance rate) at [CVPR 2020](http://cvpr2020.thecvf.com/)! Paper available [here](https://arxiv.org/abs/2003.14286) 
 
 * We got a [Best Paper Award Nomination](https://drive.google.com/open?id=1BlfJhj8axuLPXfO9kqP7hW4JIiHFp8ki)( 7 out of 4000 +) at ICCV 2019.
 
