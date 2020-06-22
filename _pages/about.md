@@ -27,6 +27,8 @@ Reviewing: Neurips 2019, 2020, ICML 2020.
 
 News
 ======
+* Our preprint on [Geometric Matrix Completion](https://hal.archives-ouvertes.fr/hal-02871840) accepted at Graph Representation Learning workshop at [ICML](https://grlplus.github.io/overview/).
+
 * We got another best paper award Nomination, this time at [CVPR 2020](http://cvpr2020.thecvf.com/)! Paper available [here](https://arxiv.org/abs/2003.14286). Top 26 out of 6k submissions.
 
 * Two papers submitted to [Neurips](https://nips.cc/). Preprint soon!
