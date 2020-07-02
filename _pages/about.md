@@ -16,12 +16,10 @@ My research interests are centered around large scale learning on collections of
 
 * Most important problem in Machine learning: Overfitting, Overfitting and Overfitting!
 
-* Most important problem in geometry processing: Coming soon!
+* Most important problem in Geometry processing: Coming soon!
 
 
-Publications can be found at [google scholar](https://scholar.google.com/citations?user=79KaxoIAAAAJ&hl=en&oi=sra)
-
-Source code is available at [Github](https://github.com/Not-IITian)
+Publications at [google scholar](https://scholar.google.com/citations?user=79KaxoIAAAAJ&hl=en&oi=sra) and source code at [Github](https://github.com/Not-IITian)
 
 Reviewing: Neurips 2019, 2020, ICML 2020.
 
@@ -29,15 +27,13 @@ News
 ======
 * Our preprint on [Geometric Matrix Completion](https://hal.archives-ouvertes.fr/hal-02871840) accepted to appear at Graph Representation Learning workshop at [ICML](https://grlplus.github.io/overview/).
 
-* We got another best paper award Nomination, this time at [CVPR 2020](http://cvpr2020.thecvf.com/)! Paper available [here](https://arxiv.org/abs/2003.14286). Top 26 out of 6k submissions.
+* We got another best paper award Nomination, this time at [CVPR 2020](http://cvpr2020.thecvf.com/node/817)! Paper available [here](https://arxiv.org/abs/2003.14286). Top 26 out of 6k submissions.
 
 * Two papers submitted to [Neurips](https://nips.cc/). Preprint soon!
 
 * We got an oral presentation(5 % acceptance rate) at [CVPR 2020](http://cvpr2020.thecvf.com/)! Paper available [here](https://arxiv.org/abs/2003.14286) 
 
 * We got a [Best Paper Award Nomination](https://drive.google.com/open?id=1BlfJhj8axuLPXfO9kqP7hW4JIiHFp8ki)( 7 out of 4000 +) at ICCV 2019.
-
-* Given [Neurips 2019](https://nips.cc/Conferences/2019/) registration reservation for being one of the top reviewer.(6k papers submitted, 1400 accepted.)
 
 * We got an oral presentation (4 % acceptance) at [ICCV](https://arxiv.org/pdf/1812.03794.pdf) and [Siggraph-A](https://arxiv.org/abs/1904.07865)
 
