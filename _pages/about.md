@@ -25,7 +25,7 @@ Reviewing: Neurips 2019, 2020, ICML 2020, ICLR 2021.
 
 News
 ======
-* Our paper on [Weakly Supervised Deep Functional Maps](https://hal.inria.fr/hal-02872053/) accepted at [Neurips 2020](https://nips.cc/Conferences/2020). 
+* Our paper on [Weakly Supervised Deep Functional Maps](https://hal.inria.fr/hal-02872053/) accepted at [Neurips 2020](https://nips.cc/Conferences/2020). 20 % acceptance rate!
 
 * Our preprint on [Geometric Matrix Completion](https://hal.archives-ouvertes.fr/hal-02871840) accepted to appear at Graph Representation Learning workshop at [ICML](https://grlplus.github.io/overview/).
 
