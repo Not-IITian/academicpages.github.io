@@ -31,8 +31,6 @@ News
 
 * We got another best paper award Nomination, this time at [CVPR 2020](http://cvpr2020.thecvf.com/node/817)! Paper available [here](https://arxiv.org/abs/2003.14286). Top 26 out of 6k submissions.
 
-* Two papers submitted to [Neurips](https://nips.cc/). Preprint soon!
-
 * We got an oral presentation(5 % acceptance rate) at [CVPR 2020](http://cvpr2020.thecvf.com/)! Paper available [here](https://arxiv.org/abs/2003.14286) 
 
 * We got a [Best Paper Award Nomination](https://drive.google.com/open?id=1BlfJhj8axuLPXfO9kqP7hW4JIiHFp8ki)( 7 out of 4000 +) at ICCV 2019.
