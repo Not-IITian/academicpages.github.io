@@ -16,12 +16,12 @@ My research interests are centered around large scale learning on collections of
 
 * Most important problem in Machine learning: Overfitting, Overfitting and Overfitting!
 
-* Most important problem in Geometry processing: Coming soon!
+* Most important problem in Graph signal processing: Coming soon!
 
 
 Publications at [google scholar](https://scholar.google.com/citations?user=79KaxoIAAAAJ&hl=en&oi=sra) and source code at [Github](https://github.com/Not-IITian)
 
-Reviewing: Neurips 2019, 2020, ICML 2020, ICLR 2021.
+Reviewing: Neurips 2019, 2020, ICML 2020, ICLR 2021, AISTATS 2021
 
 News
 ======
