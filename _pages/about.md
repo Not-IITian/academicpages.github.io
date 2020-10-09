@@ -29,7 +29,7 @@ News
 
 * Our preprint on [Geometric Matrix Completion](https://hal.archives-ouvertes.fr/hal-02871840) accepted to appear at Graph Representation Learning workshop at [ICML](https://grlplus.github.io/overview/).
 
-* We got another best paper award Nomination, this time at [CVPR 2020](http://cvpr2020.thecvf.com/node/817)! Paper available [here](https://arxiv.org/abs/2003.14286). Top 26 out of 6k submissions.
+* We got another best paper award Nomination, this time at [CVPR 2020](http://cvpr2020.thecvf.com/node/817)! Top 26 out of 6000 submissions.
 
 * We got an oral presentation(5 % acceptance rate) at [CVPR 2020](http://cvpr2020.thecvf.com/)! Paper available [here](https://arxiv.org/abs/2003.14286) 
 
@@ -39,9 +39,7 @@ News
 
 * I gave an invited lecture on [deep autoencoders](https://drive.google.com/open?id=1QfdtIAxTcKoLvpr_qbaRvqV9MrH9F51i) to second year Polytechnique students.
 
-* I will be attending [SGP](https://sgp2019.di.unimi.it/index.html) in Milano!
-
-* Despite all the odds, I came back to academia and joined Ecole Polytechnique. (March,2019)
+* I came back to academia and joined Ecole Polytechnique. (March,2019)
 
 * presented [Foreground Clustering](https://nips.cc/Conferences/2018/Schedule?showEvent=11183) at Neurips 2018.
 
