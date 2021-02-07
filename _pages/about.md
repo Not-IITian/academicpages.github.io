@@ -25,7 +25,7 @@ Reviewing: Neurips 2019, 2020, ICML 2020, ICLR 2021, AISTATS 2021
 
 News
 ======
-* New paper on Low Rank Matrix Decomposition on Graphs submitted to AISTATS. [Preprint here](https://hal.archives-ouvertes.fr/hal-02871840/)
+* New paper on Low Rank Matrix Decomposition on Graphs submitted to ICML. [Preprint here](https://hal.archives-ouvertes.fr/hal-02871840/)
 
 * Our paper on [Weakly Supervised Deep Functional Maps](https://hal.inria.fr/hal-02872053/) accepted at [Neurips 2020](https://nips.cc/Conferences/2020). (20 % acceptance rate)
 
