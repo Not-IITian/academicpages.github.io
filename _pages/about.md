@@ -10,22 +10,17 @@ redirect_from:
 
 Welcome to my homepage. I am a researcher at Ecole Polytechnique, supported by [ERC grant](https://cordis.europa.eu/project/rcn/212108/factsheet/en). Previously, I was a Marie Curie Early Stage researcher for about a year in the [famous](https://link.springer.com/article/10.1007/s11948-009-9119-4) Computer Vision Dept. (Bernt Schiele et al.) at MPI for Informatics, Saarbrucken. Before that, I graduated with a Masters degree in Applied Math with distinction and a formal training in machine learning and computer vision [MVA Masters programme](https://www.master-mva.com/)
 
-My research interests are centered around large scale learning on collections of 2D images, 3D geometric shapes and large networks or graphs. A particular focus of my research is on unsupervised learning and follows:
-
-* Most Important Problems in Computer Vision: Correspondence, Correspondence and Correspondence (Takeo Kanade, CMU, 1997)
-
-* Most important problem in Machine learning: Overfitting, Overfitting and Overfitting!
-
-* Most important problem in Graph signal processing: Coming soon!
-
+My research interests are centered around large scale learning on collections of 2D images, 3D geometric shapes and large networks or graphs. 
 
 Publications at [google scholar](https://scholar.google.com/citations?user=79KaxoIAAAAJ&hl=en&oi=sra) and source code at [Github](https://github.com/Not-IITian)
 
-Reviewing: Neurips 2019, 2020, ICML 2020,2021 ICLR 2021, AISTATS 2021
+Reviewing: Neurips'19,'20,'21, ICML '20,'21 ICLR'21, AISTATS'21
 
 News
 ======
-* New paper on Low Rank Matrix Decomposition on Graphs submitted to ICML. [Preprint here](https://hal.archives-ouvertes.fr/hal-02871840/)
+* Learning Symmetry aware Canonical Embedding [Preprint here](https://hal.archives-ouvertes.fr/hal-03251317) 
+
+* Low Rank Matrix Decomposition on Graphs [Preprint here](https://hal.archives-ouvertes.fr/hal-02871840/)
 
 * Our paper on [Weakly Supervised Deep Functional Maps](https://hal.inria.fr/hal-02872053/) accepted at [Neurips 2020](https://nips.cc/Conferences/2020). (20 % acceptance rate)
 
