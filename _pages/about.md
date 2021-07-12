@@ -18,6 +18,8 @@ Reviewing: Neurips'19,'20,'21, ICML '20,'21 ICLR'21, AISTATS'21
 
 News
 ======
+* Accepted an Invitation to give a talk on 'Learning based correspondence' at [SGI'21 by MIT ](https://sgi.mit.edu)
+
 * Learning Symmetry aware Canonical Embedding [Preprint here](https://hal.archives-ouvertes.fr/hal-03251317) 
 
 * Low Rank Matrix Decomposition on Graphs [Preprint here](https://hal.archives-ouvertes.fr/hal-02871840/)
@@ -28,11 +30,7 @@ News
 
 * We got another best paper award Nomination, this time at [CVPR 2020](http://cvpr2020.thecvf.com/node/817)! Top 26 out of 6000 submissions.
 
-* We got an oral presentation(5 % acceptance rate) at [CVPR 2020](http://cvpr2020.thecvf.com/)! Paper available [here](https://arxiv.org/abs/2003.14286) 
-
 * We got a [Best Paper Award Nomination](https://drive.google.com/open?id=1BlfJhj8axuLPXfO9kqP7hW4JIiHFp8ki)( 7 out of 4000 +) at ICCV 2019.
-
-* We got an oral presentation (4 % acceptance) at [ICCV](https://arxiv.org/pdf/1812.03794.pdf) and [Siggraph-A](https://arxiv.org/abs/1904.07865)
 
 * I gave an invited lecture on [deep autoencoders](https://drive.google.com/open?id=1QfdtIAxTcKoLvpr_qbaRvqV9MrH9F51i) to second year Polytechnique students.
 
